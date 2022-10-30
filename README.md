@@ -5,6 +5,8 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+[![@krifik's Holopin board](https://holopin.me/krifik)](https://holopin.io/@krifik)
+
 - 👋 Hi, I’m Fikri Ilhamsyah
 - 👀 I’m interested in programming, especially in Web Development
 - 🌱 I’m currently learning Golang, Laravel, Vue
