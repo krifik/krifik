@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Fikri Ilhamsyah
 - 👀 I’m interested in programming, especially in Web Development
-- 🌱 I’m currently learning Golang, Laravel, Vue
+- 🌱 I’m currently learning Golang, Laravel, Vue, React, Nodejs 
 - 📫 How to reach me :
 - ![https://www.facebook.com/fikriilhamsya][2.1] https://www.facebook.com/fikriilhamsya
 
